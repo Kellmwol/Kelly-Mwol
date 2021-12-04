@@ -30,7 +30,7 @@ module.exports = {
     WELCOME: process.env.WELCOME === undefined ? 'pp' : process.env.WELCOME,
     OWNER: process.env.OWNER_NAME === undefined ? 'default' : process.env.OWNER_NAME,
     PHONE: process.env.NUMBER === undefined ? '+919567489404' : process.env.NUMBER,   
-    OA_NAME: process.env.DEPLOYER === undefined ? 'Shefin Sir' : process.env.DEPLOYER,
+    OA_NAME: process.env.DEPLOYER === undefined ? 'KellyMwol' : process.env.DEPLOYER,
     ALL: process.env.ALL_CAPTION === undefined ? 'Made By KellyMwol' : process.env.ALL_CAPTION,
     LG_LOGO: process.env.LG_LOGO === undefined ? 'https://i.imgur.com/PtRiOMd.jpeg' : process.env.LG_LOGO,
     LOGO_NAME: process.env.LOGO_NAME === undefined ? 'KellyMwol' : process.env.LOGO_NAME,
@@ -94,6 +94,6 @@ module.exports = {
     BOTCREATOR: "afnanplk",
     MAHN: "919567489404,0",
     SUPPORT: "919567489404-1635775355",
-    SUPPORT2: "994400378046-1617736751",
-    SUPPORT3: "994400378046-1621015274"
+    SUPPORT2: "905511384572-1617736751",
+    SUPPORT3: "905511384572-1621015274"
 };
