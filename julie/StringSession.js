@@ -13,7 +13,7 @@ class StringSession {
     }
 
     deCrypt(string = undefined) {
-        if ('KELLYMWOL_CODE' in process.env && string === undefined) {
+        if ('KELLY_CODE' in process.env && string === undefined) {
             string = process.env.STRING_SESSION;
         } else if (string !== undefined) {
             if (fs.existsSync(string)) {
